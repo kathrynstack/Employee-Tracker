@@ -11,5 +11,6 @@ I learned how to build a data base from scratch to make a helpful tool.
 ## Usage
 
 
-    ```
+    ```[employeetracker.webm](https://user-images.githubusercontent.com/122328070/236646232-1647b505-58d9-46c3-a1ba-ee784a14d5fc.webm)
+
 
